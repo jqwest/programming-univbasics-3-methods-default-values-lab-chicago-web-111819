@@ -5,8 +5,8 @@ def meal_choice(veg1, veg2, protien = 'meat')
 
 end
 
-meal_choice("broccoli", "macaroni", "tofu")
-meal_choice("broccoli", "macaroni") + "and your order to the console"
+meal_choice("broccoli", "macaroni", "tofu") + "and your order to the console"
+meal_choice("broccoli", "macaroni")
 
 #def meal_choice(veg1, veg2, protien = 'meat')
 #  puts "What a nutritious meal!"
